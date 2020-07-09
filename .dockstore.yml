@@ -1,0 +1,11 @@
+version: 1.2
+service:
+   subclass: NOT_APPLICABLE
+   name: Big Service Fles
+   author: Walt Shands
+   description: |
+      This service uses very big files
+#   files:
+#      - largetxtfile.txt
+      
+# Just a comment to make the yml file very large so we can test Dockstore file size limitations
