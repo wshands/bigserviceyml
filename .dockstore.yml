@@ -5,6 +5,6 @@ service:
    author: Walt Shands
    description: |
       This service uses very big files
-#   files:
-#      - largetxtfile.txt
+   files:
+      - verylargewdl.wdl
 
