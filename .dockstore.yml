@@ -7,4 +7,5 @@ service:
       This service uses very big files
    files:
       - verylargewdl.wdl
+      - verylargewdl2.wdl
 
