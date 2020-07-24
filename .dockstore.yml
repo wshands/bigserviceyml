@@ -8,4 +8,4 @@ service:
    files:
       - verylargewdl.wdl
       - verylargewdl2.wdl
-
+      - verylargewdl.wdl.morethan5MB
